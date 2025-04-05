@@ -3,6 +3,8 @@ Compute long-run and period-specific effects after estimating a dynamic model Us
 
 Compute Long-Run Effects After Estimating a Dynamic Model Use lreff With STATA 18
 
+https://www.youtube.com/watch?v=QonDFA0biTs
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
